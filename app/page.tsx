@@ -1,9 +1,12 @@
 import React from "react"
+import { Button } from "./_components/ui/button"
 
 const Home = () => {
   return (
     <div>
-      <h1 className="mb-5 bg-red-50 text-red-500">Hello World</h1>
+      <h1 className="m-5">
+        <Button>Button</Button>
+      </h1>
     </div>
   )
 }
