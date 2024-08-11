@@ -3,5 +3,7 @@
     "prettier-plugin-tailwindcss"
   ],
   "tabWidth": 2,
-  "semi": false
+  "semi": false,
+  "proseWrap": "never",
+  "printWidth": 120
 }
